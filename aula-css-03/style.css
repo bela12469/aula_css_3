@@ -41,8 +41,9 @@ nav ul li {
   color: white;
 }
 
-.proz_main_titles {
- 
+.proz_main_titleall{
+  align-self: flex-start;
+  padding: 40px;
 }
 
 .proz_main_title{
